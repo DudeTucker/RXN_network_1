@@ -15,3 +15,8 @@ number_of_species = 7
 
 
 species_list = [] 				#the list holding the species information
+reaction_list = []
+
+
+
+Propensities = []
